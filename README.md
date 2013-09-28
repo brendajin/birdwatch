@@ -11,3 +11,7 @@ A #sciencehackday app to visualize bird migration
 * Rub `cd birdwatch`
 * In the `root` directory, run `npm install`
 * In the `root` directory, run `foreman start`. Your local server will be on `PORT 5000`
+
+##Jade Templates
+* [jade-lang](jade-lang.com)
+* [Sublime Text Package Control](https://sublime.wbond.net/installation)
