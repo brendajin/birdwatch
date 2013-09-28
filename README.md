@@ -15,3 +15,6 @@ A #sciencehackday app to visualize bird migration
 ##Jade Templates
 * [jade-lang](jade-lang.com)
 * [Sublime Text Package Control](https://sublime.wbond.net/installation)
+
+##SSH Keys (so you don't have to keep entering your password)
+* [Github instructions](https://help.github.com/articles/generating-ssh-keys)
