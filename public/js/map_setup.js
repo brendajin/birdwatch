@@ -1,8 +1,10 @@
 var map = L.map('map').setView([8.4333333333333, - 77.966666666667], 2);
 
+
 		L.tileLayer('http://{s}.tile.cloudmade.com/{key}/22677/256/{z}/{x}/{y}.png', {
-			attribution: 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2012 CloudMade',
+			// attribution: 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2012 CloudMade',
 			key: 'BC9A493B41014CAABB98F0471D759707'
+			// attributionControl: false
 		}).addTo(map);
 
 		var broadwinghawkIcon = L.icon({
@@ -75,4 +77,5 @@ var map = L.map('map').setView([8.4333333333333, - 77.966666666667], 2);
 
 			onEachFeature: onEachFeature
 		}).addTo(map);
+
 
