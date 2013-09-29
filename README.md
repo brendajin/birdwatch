@@ -12,7 +12,7 @@ A #sciencehackday app to visualize bird migration
 * Brenda - Node.js/Express, UI
 * Kathy - Data-Modeling, Unix, Map Visualization
 * Lana - UI
-* Melissa - UX, Interaction, Design Direction
+* Melissa - UX, Interaction, Design, UI
 
 ##Environment Instructions
 * Install [Node](http://nodejs.org/)
