@@ -4,8 +4,8 @@ birdwatch
 A #sciencehackday app to visualize bird migration
 
 ##Screenshots
-![Screenshot 1](https://github.com/brendajin/birdwatch/blob/master/public/img/screenshot1.png)
-![Screenshot 2](https://github.com/brendajin/birdwatch/blob/master/public/img/screenshot2.png)
+![Screenshot 1](public/img/screenshot1.png)
+![Screenshot 2](public/img/screenshot2.png)
 
 ##Project Libraries
 * [Bootstrap 3](http://getbootstrap.com/)
