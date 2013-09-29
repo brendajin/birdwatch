@@ -1,0 +1,21 @@
+extends layout
+
+block content
+    .input-group
+      .input-group-btn
+        button.btn.btn-default.dropdown-toggle(type='button', data-toggle='dropdown')
+          | Action
+          span.caret
+        ul.dropdown-menu
+          li
+            a(href='#') Action
+          li
+            a(href='#') Another action
+          li
+            a(href='#') Something else here
+          li.divider
+          li
+            a(href='#') Separated link
+      // /btn-group
+      input.form-control(type='text')
+    // /input-group

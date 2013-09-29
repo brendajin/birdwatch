@@ -20,12 +20,12 @@ app.configure(function(){
 });
 
 
-app.get('/', function(req, res) {
+app.get('/', function(req,res) {
 	res.render('index');
-});
+})
 
-app.get('/download',function(req,res) {
-	res.download(process.env.PWD + '/public/peproulette0.0.1.apk');
+app.get('/:path', function(req, res) {
+	res.render(req.params.path);
 });
 
 var port = process.env.PORT || 5000;
