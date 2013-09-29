@@ -9,7 +9,7 @@ var map = L.map('map').setView([8.4333333333333, - 77.966666666667], 2);
 
 		var broadwinghawkIcon = L.icon({
 			iconUrl: '../img/bird-map.png',
-			iconSize: [64, 74],
+			iconSize: [64, 64],
 			iconAnchor: [30, 25],
 			popupAnchor: [0, -28]
 		});
