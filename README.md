@@ -3,6 +3,17 @@ birdwatch
 
 A #sciencehackday app to visualize bird migration
 
+##Project Libraries
+* [Bootstrap 3](http://getbootstrap.com/)
+* [Bootstrap Toggle Switch](http://www.bootstrap-switch.org/)
+
+##Contributors
+* Andrea - Data, Map Visualization
+* Brenda - Node.js/Express, UI
+* Kathy - Data-Modeling, Unix, Map Visualization
+* Lana - UI
+* Melissa - UX, Interaction, Design Direction
+
 ##Environment Instructions
 * Install [Node](http://nodejs.org/)
 * Install [Heroku Toolbelt](https://toolbelt.heroku.com/)
