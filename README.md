@@ -9,6 +9,11 @@ A #sciencehackday app to visualize bird migration
 * [Avibase](http://avibase.bsc-eoc.org/) The world bird database
 * [Wikipedia](http://en.wikipedia.org/)
 
+##Bird data sources:
+* http://www.birdsource.org/GIS/bwhawk.html
+* http://allaboutbirds.org/guide/Baltimore_Oriole/id
+* http://en.wikipedia.org/wiki/Broad-winged_Hawk
+
 ##Contributors
 * Andrea - Data, Map Visualization
 * Brenda - Node.js/Express, UI
