@@ -1,21 +1,21 @@
 extends layout
 
 block content
-    .input-group
-      .input-group-btn
-        button.btn.btn-default.dropdown-toggle(type='button', data-toggle='dropdown')
-          | Action
-          span.caret
-        ul.dropdown-menu
-          li
-            a(href='#') Action
-          li
-            a(href='#') Another action
-          li
-            a(href='#') Something else here
-          li.divider
-          li
-            a(href='#') Separated link
-      // /btn-group
-      input.form-control(type='text')
-    // /input-group
+	#myCarousel.carousel.slide
+		ol.carousel-indicators
+			li(data-target="#myCarousel",data-slide-to="0").active
+			li(data-target="#myCarousel",data-slide-to="1")
+			li(data-target="#myCarousel",data-slide-to="2")
+		.carousel-inner
+			.item.active
+				img(src="img/bird1.jpg")
+			.item
+				img(src="img/bird2.jpg")
+			.item
+				img(src="img/bird3.jpg")
+		a.left.carousel-control(href="#myCarousel",data-slide="prev")
+			span.glyphicon.glyphicon-chevron-left
+		a.right.carousel-control(href="#myCarousel",data-slide="next")
+			span.glyphicon.glyphicon-chevron-right
+	script(src="js/holder.js")
+	script(src="js/script.js")
