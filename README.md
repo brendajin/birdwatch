@@ -3,6 +3,10 @@ birdwatch
 
 A #sciencehackday app to visualize bird migration
 
+##Screenshots
+![Screenshot 1](/img/screenshot1.png)
+![Screenshot 2](/img/screenshot2.png)
+
 ##Project Libraries
 * [Bootstrap 3](http://getbootstrap.com/)
 * [Bootstrap Toggle Switch](http://www.bootstrap-switch.org/)
