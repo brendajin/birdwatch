@@ -28,7 +28,7 @@ app.get('/:path', function(req, res) {
 	res.render(req.params.path);
 });
 
-var port = process.env.PORT || 5001;
+var port = process.env.PORT || 8111;
 server.listen(port, function() {
   console.log("LISTENING ON PORT: "+port);
 });

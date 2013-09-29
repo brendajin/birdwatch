@@ -6,6 +6,8 @@ A #sciencehackday app to visualize bird migration
 ##Project Libraries
 * [Bootstrap 3](http://getbootstrap.com/)
 * [Bootstrap Toggle Switch](http://www.bootstrap-switch.org/)
+* [Avibase](http://avibase.bsc-eoc.org/) The world bird database
+* [Wikipedia](http://en.wikipedia.org/)
 
 ##Contributors
 * Andrea - Data, Map Visualization
