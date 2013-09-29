@@ -17,6 +17,5 @@ A #sciencehackday app to visualize bird migration
 * [HTML2Jade Quick Online Converter](http://html2jade.com/)
 
 ##SSH Keys
-###(so you don't have to keep entering your password)
-* [Github instructions](https://help.github.com/articles/generating-ssh-keys)
+* Tired of entering your password? [Github instructions](https://help.github.com/articles/generating-ssh-keys)
 * If you're wondering why you're not seeing your commits online, [configure your email](https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user)
