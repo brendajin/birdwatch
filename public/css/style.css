@@ -17,6 +17,12 @@ a {
 	font-family: Helvetica;
 }
 
+.navbar-fixed-top {
+	background-color: white;
+	opacity: .8;
+	padding-top: 5px;
+}
+
 .detail-icon {
 	margin-top: -150px;
 	background-color: white;
