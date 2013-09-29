@@ -1,7 +1,8 @@
 {
-  "name": "peproulette",
+  "name": "birdwatch",
   "version": "0.0.1",
   "private": false,
+  "repositoyr":"",
   "scripts": {
     "start": "node app.js"
   },
