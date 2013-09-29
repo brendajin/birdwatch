@@ -3,9 +3,9 @@ extends layout
 block content
 	nav.navbar-fixed-top(role=navigation)
 		.navbar-header
-			img(src="img/icons/arrow.png")
-			span Back
-			p.navbar-text Bird Watch
+			a(href="/")
+				img(src="img/icons/arrow.png")
+				span Back
 	#myCarousel.carousel.slide
 		ol.carousel-indicators
 			li(data-target="#myCarousel",data-slide-to="0").active
