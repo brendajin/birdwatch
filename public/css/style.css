@@ -16,6 +16,18 @@ a {
 	text-align: center;
 	font-family: Helvetica;
 }
+
+.detail-icon {
+	margin-top: -173px;
+	background-color: white;
+	opacity: .8;
+}
+
+.detail-icon img{
+	margin-right: 7%;
+	margin-left:7%;
+}
+
 .download {
 	width:100%;
 	margin:auto;
