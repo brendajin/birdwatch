@@ -3,31 +3,4 @@ extends layout
 block content
   
   .container
-
-    img.center(src='images/logo-icon.png', alt='')
-    .talk-pep
-      p Select your category:
-    #choose
-      a#family family
-      a#pets pets
-      a#work work
-      a#tech tech
-      a#love love
-      a#friends friends
-    .talk-pep
-      p(style='clear:both') Give your pep:
-      textarea.message(maxlength='140', rows='2', cols='30')
-      .give-footer
-        span.countdown
-        button#give Give
-    hr
-    .download
-      a(href="/download")
-       img(src='/images/android_badge.png')
-      #custom-tweet
-        a.twitter-share-button(href='https://twitter.com/share', data-lang='en', data-url='http://peproulette.herokuapp.com', data-hashtags='peproulette',data-text='I give pep') Tweet peproulette
-    hr
-    p
-      .caption A project by @cyberneticlove and @melisskelly
-
-  script(src='javascripts/script2.js')
+  #map 
