@@ -165,6 +165,13 @@ textarea {
 .caption {
 	font-size:.8em;
 }
+
+
+.leaflet-popup-content {
+margin: 13px 19px;
+line-height: 1.4;
+height: 50px;
+}
 @media (max-width: 760px) {
 	.container {
 		padding-top:1em;

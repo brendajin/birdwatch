@@ -1,7 +1,7 @@
 var broad_wing_hawk_pic ={
     "type" : "Feature",
     "properties":{
-        "popupContent":"This is the Broad Wing Hawk <a href='#''>details&raquo;</a>",
+        "popupContent":"This is the Broad Wing Hawk <a href='/detail'>details&raquo;</a>",
         "style":{
 
         }
